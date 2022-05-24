@@ -1,14 +1,1 @@
-= training jetpack compose
-
-. compose-fundamentals
-. building-layout-groups-in-compose
-. building-lists-with-jetpack-compose
-. combining-composables
-. using-compose-modifiers
-. managing-state-in-compose
-. applying-material-design-to-compose
-. using-constraintsets-in-composables
-. building-complex-ui-in-jetpack-compose
-. reacting-to-compose-lifecycle
-. animating-properties-using-compose
-. adding-view-compatibility
+= training khipster

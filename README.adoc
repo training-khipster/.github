@@ -1,1 +1,1 @@
-= training jetpack compose profile repository (.github)
+= training khipster profile repository (.github)
